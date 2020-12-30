@@ -1,1 +1,1 @@
-# FreeQL
+# EasyQL
